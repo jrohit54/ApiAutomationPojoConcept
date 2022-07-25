@@ -1,0 +1,2 @@
+host=https://cdn-api.co-vin.in/
+path=api/v2/appointment/sessions/public/findByDistrict
